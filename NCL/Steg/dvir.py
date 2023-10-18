@@ -1,6 +1,12 @@
 from PIL import Image
 import sys
 
+
+
+#Obviously this did not work but I essentially tried pulling hidden pixels which was way more than needed apparently.
+
+
+
 # Function to reveal text from an image
 def reveal_text_from_image(image_path):
     try:
